@@ -86,7 +86,7 @@ const config = {
             title: 'User Manual',
             items: [
               {
-                label: 'Tutorial',
+                label: 'User Manual',
                 to: '/',
               },
             ],
@@ -99,21 +99,25 @@ const config = {
                 href: 'https://kyligence.io/',
               },
               {
-                label: 'Kyligence',
-                href: 'https://kyligence.io/',
+                label: 'Apache Kylin',
+                href: 'https://kylin.apache.org/',
               },
               {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/kyligence/',
+                label: 'Byzer ',
+                href: 'https://www.byzer.org/home',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Contact us',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Twitter',
+                href: 'https://twitter.com/kyligence',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/kyligence/',
               },
               {
                 label: 'GitHub',

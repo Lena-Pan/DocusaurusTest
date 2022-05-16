@@ -3,13 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# Bzyer User Manual
+# Byzer 用户手册
 
-Let's discover **Bzyer**.
+开始探索 **Byzer**。
 
-## Getting Started
+## 快速上手
 
-Get started by **Byzer Notebook**.
+建议您从 **Byzer Notebook** 开始！
 
 ```python
 print(Hello World!)
