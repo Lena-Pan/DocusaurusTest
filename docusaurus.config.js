@@ -67,6 +67,7 @@ const config = {
         items: [
 
           //{to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'help', label: 'Help', position: 'left' },
           {
             href: 'https://kyligence.io/',
             label: 'Kyligence',
